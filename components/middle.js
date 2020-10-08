@@ -1,6 +1,6 @@
 import { Typography, Button, Grid } from '@material-ui/core'
 import { makeStyles } from '@material-ui/styles'
-import Middlesvg from '../public/Middle.svg'
+import Middlesvg from '../public/middle.svg'
 
 const useStyles = makeStyles({
   h1: {
