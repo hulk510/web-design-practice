@@ -1,6 +1,6 @@
 import { Typography, Button, Grid } from '@material-ui/core'
 import { makeStyles } from '@material-ui/styles'
-import Bottomsvg from '../public/Bottom.svg'
+import Bottomsvg from '../public/bottom.svg'
 
 const useStyles = makeStyles({
   h1: {
